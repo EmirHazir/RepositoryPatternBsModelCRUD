@@ -1,0 +1,7 @@
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\bin\Debug\netcoreapp1.1\RepositoryPattern.Data.deps.json
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\bin\Debug\netcoreapp1.1\RepositoryPattern.Data.dll
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\obj\Debug\netcoreapp1.1\RepositoryPattern.Data.csprojResolveAssemblyReference.cache
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\obj\Debug\netcoreapp1.1\RepositoryPattern.Data.AssemblyInfo.cs
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\bin\Debug\netcoreapp1.1\RepositoryPattern.Data.pdb
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\obj\Debug\netcoreapp1.1\RepositoryPattern.Data.dll
+c:\users\ab\documents\visual studio 2017\Projects\RepositoryPattern\RepositoryPattern.Data\obj\Debug\netcoreapp1.1\RepositoryPattern.Data.pdb
